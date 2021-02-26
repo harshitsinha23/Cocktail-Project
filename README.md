@@ -1,11 +1,4 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+This App shows you the list of cocktails based on the searched key and
+we can click on any specific cocktail to see more details about it.
+The App is build using multiple Reactjs Hooks like useState(),
+useEffect(), useContext(), useRef(), etc.
